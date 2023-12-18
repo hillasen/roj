@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roj/static/css/main.2207b888.css",
+    "main.js": "/roj/static/js/main.892bc7dd.js",
+    "static/js/787.6673cb34.chunk.js": "/roj/static/js/787.6673cb34.chunk.js",
+    "index.html": "/roj/index.html",
+    "main.2207b888.css.map": "/roj/static/css/main.2207b888.css.map",
+    "main.892bc7dd.js.map": "/roj/static/js/main.892bc7dd.js.map",
+    "787.6673cb34.chunk.js.map": "/roj/static/js/787.6673cb34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2207b888.css",
+    "static/js/main.892bc7dd.js"
+  ]
+}
